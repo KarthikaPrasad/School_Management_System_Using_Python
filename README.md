@@ -1,11 +1,11 @@
-## Hi there, I'm Nandu Prasad 👋
+## Hi there, I'm Karthika Prasad 👋
 ### I am a DS/AI/ML and DL enthusiast
 
-- 🔭 I’m currently working on Data Analytics, Machine Learning and DNN projects.
-- 🌱 I’m currently learning everything.
-- 🖥️ I'm looking for someone to collaborate on AI/ML projects.
+- 🔭 I’m currently working on Saas projects.
+- 🌱 I’m currently learning AWS.
+- 🖥️ I'm looking for someone to collaborate on AI projects.
 - 🐕 I have a dog and his name is Kesu.
-- 📩 Reach me on my email: nandu26m@gmail.com / nandu.prasad@hotmail.com
+- 📩 Reach me on my email: Karthika.mtprasad@gmail.com / karthikacusat92@gmail.com
 
 
 ### Connect with me:
